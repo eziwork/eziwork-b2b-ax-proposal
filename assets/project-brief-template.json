@@ -1,0 +1,29 @@
+{
+  "client": {
+    "name": "",
+    "industry": "",
+    "audience": "",
+    "recipient_role": "",
+    "logo_path": ""
+  },
+  "proposal": {
+    "title": "",
+    "decision_request": "",
+    "duration": "",
+    "output_path": "",
+    "format": "16:9 PDF"
+  },
+  "current_state": [],
+  "future_state": [],
+  "long_term_systems": [],
+  "current_scope": [],
+  "deliverables": [],
+  "roadmap": [],
+  "kpis": [],
+  "eziwork_proof": [],
+  "approvals_and_dependencies": [],
+  "sources": [],
+  "fact_register": [],
+  "unresolved_decisions": []
+}
+

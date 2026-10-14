@@ -1,0 +1,8 @@
+interface:
+  display_name: "Eziwork B2B AX Proposal"
+  short_description: "임원용 AX·시스템 개선 제안서 HTML·PDF 제작 및 검수"
+  brand_color: "#2448E7"
+  default_prompt: "$eziwork-b2b-ax-proposal을 사용해 고객 자료를 근거로 문제와 개선 효과가 연결되는 가로형 한국어 제안서를 만들고, 비용 합산·시각화·공유 파일까지 검수해줘."
+
+policy:
+  allow_implicit_invocation: true
